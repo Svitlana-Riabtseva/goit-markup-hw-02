@@ -87,7 +87,7 @@ ul {
 
 .solutions-btn:hover,
 .solutions-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 /* features */
@@ -135,7 +135,7 @@ ul {
   color: #2e2f42;
 }
 .team-list {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .team-item {
 }
@@ -200,6 +200,7 @@ ul {
   background: #2e2f42;
 }
 .footer-logo {
+  font-weight: 700;
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   line-height: 21px;
@@ -209,7 +210,6 @@ ul {
   color: #4d5ae5;
 }
 .footer-logo-color {
-  font-weight: 700;
   color: #f4f4fd;
 }
 
